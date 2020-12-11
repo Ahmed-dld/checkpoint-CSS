@@ -2,7 +2,7 @@
 
 body {
     background:rgb(243, 188, 133);
-    font-family: 'Trebuchet MS', Arial, sans-serif;
+    font-family: 'Roboto', sans-serif;
     color: #181818;
     
   }
@@ -46,7 +46,7 @@ background-size: cover;
 text-align: center;
  z-index: 1;
  position: absolute;
- font-family: Georgia;
+ font-family: 'Roboto', sans-serif;
 margin: 0 auto;
  left: 10%;
 right:3%;
@@ -165,7 +165,7 @@ table {
     width: 50%;
     }
     th {
-        font-family: monospace;
+        font-family: 'Roboto', sans-serif;
         border: thin solid #a6ed64;
         width: 50%;
         padding: 5px;
@@ -173,7 +173,7 @@ table {
         background-image: url(sky.jpg);
         }
         td {
-            font-family: sans-serif;
+            font-family: 'Roboto', sans-serif;
             border: thin solid #6495ed;
             width: 50%;
             padding: 5px;
@@ -181,7 +181,7 @@ table {
             background-color: #ffffff;
             }
             caption {
-            font-family: sans-serif;
+                font-family: 'Roboto', sans-serif;
             }
 #les_payes{
     border: medium solid #000000;
@@ -190,7 +190,7 @@ table {
 }
 h1{
     color: mediumblue;
-    font-family: cursive;
+    font-family: 'Roboto', sans-serif;
     font-size: 30px;
 }
 /* Contact */
